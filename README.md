@@ -175,7 +175,7 @@ zdharma/history-search-multi-word` for testing before adding it to your
 ### Oh-My-Zsh
 
 1. `cd ~/.oh-my-zsh/custom/plugins`
-2. `git clone git@github.com:zdharma/history-search-multi-word.git`
+2. `git clone git@github.com:tatosjb/history-search-multi-word.git`
 3. Add `history-search-multi-word` to your plugin list
 
 ### Zgen
